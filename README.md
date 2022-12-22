@@ -1,6 +1,6 @@
 # tiktaktoe-project
 
-my first programming project for javascript
+my first programming project for html/css/javascript
 
 
 ## Guides
